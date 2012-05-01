@@ -1,0 +1,573 @@
+TTrackIT
+v7
+r0
+t310328067.074018
+cCheck dependencies
+cProcessInfoPlistFile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/Info.plist TrackIT-Info.plist
+cCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib
+cCompileXIB /Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/TrackIT.app/TrackIT.sqlite TrackIT.sqlite
+cCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib
+cCpResource build/Debug-iphonesimulator/TrackIT.app/rugby_ball.png rugby_ball.png
+cCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib
+cProcessPCH /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch.gch TrackIT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/main.o /Users/markonm/CVSDevelopment/TrackIT/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackITAppDelegate.o /Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/RootViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Match.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Team.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchesViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Constants.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Goal.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/GoalType.o /Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT normal i386
+cGenerateDSYMFile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app.dSYM /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT
+cTouch /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C6C69170000000000000132
+t1282173207
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/Availability.h
+c000000004BF4CBF90000000000001A3B
+t1274334201
+s6715
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/sqlite3.h
+c000000004BFDF9FB0000000000041A6F
+t1274935803
+s268911
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/lib/libsqlite3.0.dylib
+c000000004BFDFA0A0000000000079480
+t1274935818
+s496768
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.h
+c000000004CCF02FF000000000000020F
+t1288635135
+s527
+i<Foundation/Foundation.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m
+c000000004CCF02FF00000000000001A1
+t1288635135
+s417
+i"Constants.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.h
+c000000004CCF02FF00000000000002CC
+t1288635135
+s716
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m
+c000000004CCF02FF000000000000022A
+t1288635135
+s554
+i"Goal.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.h
+c000000004CCF02FF0000000000000223
+t1288635135
+s547
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m
+c000000004CCF02FF00000000000001BA
+t1288635135
+s442
+i"GoalType.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Match.h
+c000000004CCF02FF000000000000059B
+t1288635135
+s1435
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m
+c000000004CCF02FF000000000000063E
+t1288635135
+s1598
+i"Match.h"
+i"Goal.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.h
+c000000004CCF02FF0000000000000663
+t1288635135
+s1635
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m
+c000000004CCF02FF0000000000000533
+t1288635135
+s1331
+i"MatchViewController.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.h
+c000000004CCF02FF0000000000000222
+t1288635135
+s546
+i<UIKit/UIKit.h>
+i"Match.h"
+i"MatchViewController.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m
+c000000004CCF02FF0000000000001C48
+t1288635135
+s7240
+i"Constants.h"
+i"RootViewController.h"
+i"TrackITAppDelegate.h"
+i"Match.h"
+i"GoalType.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.h
+c000000004CCF02FF00000000000000E2
+t1288635135
+s226
+i<UIKit/UIKit.h>
+i"MatchesViewController.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m
+c000000004CCF02FF0000000000001105
+t1288635135
+s4357
+i"Constants.h"
+i"RootViewController.h"
+i"TrackITAppDelegate.h"
+i"Team.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Team.h
+c000000004CCF02FF0000000000000186
+t1288635135
+s390
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m
+c000000004CCF02FF0000000000000116
+t1288635135
+s278
+i"Team.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.h
+c000000004CCF02FF000000000000056B
+t1288635135
+s1387
+i<UIKit/UIKit.h>
+i<sqlite3.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m
+c000000004CCF02FF00000000000029B6
+t1288635135
+s10678
+i"TrackITAppDelegate.h"
+i"Constants.h"
+i"RootViewController.h"
+i"Team.h"
+i"Match.h"
+i"Goal.h"
+i"GoalType.h"
+
+N/Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib
+c000000004CCF02FF0000000000005999
+t1288635135
+s22937
+
+N/Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib
+c000000004CCF02FF000000000000B391
+t1288635135
+s45969
+
+N/Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib
+c000000004CCF02FF0000000000004246
+t1288635135
+s16966
+
+N/Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib
+c000000004CCF02FF0000000000001D7C
+t1288635135
+s7548
+
+N/Users/markonm/CVSDevelopment/TrackIT/TrackIT.sqlite
+c000000004CCF02FF0000000000005000
+t1288635135
+s20480
+
+N/Users/markonm/CVSDevelopment/TrackIT/TrackIT_Prefix.pch
+c000000004CCF02FF0000000000000140
+t1288635135
+s320
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app
+t1288635262
+s374
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app.dSYM
+t1288635262
+s102
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/Info.plist
+t1288635253
+s627
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MainWindow.nib
+t1288635256
+s1485
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MatchViewController.nib
+t1288635257
+s3914
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MatchesViewController.nib
+t1288635257
+s979
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/PkgInfo
+t1288635253
+s8
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/RootViewController.nib
+t1288635256
+s1077
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT
+t1288635262
+s71876
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT.sqlite
+t1288635256
+s20480
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/rugby_ball.png
+t1288635256
+s12959
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Constants.o
+t1288635262
+s6192
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Goal.o
+t1288635262
+s13384
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/GoalType.o
+t1288635262
+s10740
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Match.o
+t1288635262
+s23888
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchViewController.o
+t1288635262
+s52684
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchesViewController.o
+t1288635262
+s61928
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/RootViewController.o
+t1288635261
+s53396
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Team.o
+t1288635262
+s10548
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackIT.LinkFileList
+c000000004CCF03740000000000000500
+t1288635252
+s1280
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackITAppDelegate.o
+t1288635261
+s68992
+
+N/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/main.o
+t1288635261
+s6300
+
+N/Users/markonm/CVSDevelopment/TrackIT/main.m
+c000000004CCF02FF0000000000000150
+t1288635135
+s336
+i<UIKit/UIKit.h>
+
+N/Users/markonm/CVSDevelopment/TrackIT/rugby_ball.png
+c000000004CCF02FF000000000000329F
+t1288635135
+s12959
+
+N/var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch.gch
+t1288635261
+s15232016
+
+NTrackIT-Info.plist
+c000000004CCF02FF0000000000000397
+t1288635135
+s919
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310328067#310328067#0(0"0(0#1#0"8601004288#0"0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Constants.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328062.131702
+e310328062.196710
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Constants.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m310328062#310328062#0(0"0(0#0#57"/Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m8610551392#1908"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/Constants.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Constants.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Goal.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328062.196811
+e310328062.270492
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Goal.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m310328062#310328062#0(0"0(0#0#52"/Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m8612106240#1898"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/Goal.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Goal.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/GoalType.o /Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328062.270609
+e310328062.341493
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/GoalType.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m310328062#310328062#0(0"0(0#0#56"/Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m8612168736#1906"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/GoalType.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/GoalType.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Match.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328061.976516
+e310328062.074988
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Match.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m310328061#310328062#0(0"0(0#0#53"/Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m8611077312#1900"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/Match.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Match.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328061.923258
+e310328062.044300
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchViewController.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m310328061#310328062#0(0"0(0#0#67"/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m8611290016#1928"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchViewController.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchViewController.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchesViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328062.075095
+e310328062.302488
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchesViewController.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m310328062#310328062#0(0"0(0#0#69"/Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m8610622656#1932"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/MatchesViewController.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/MatchesViewController.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/RootViewController.o /Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328061.874935
+e310328061.976410
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/RootViewController.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m310328061#310328061#0(0"0(0#0#66"/Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m8611739648#1926"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/RootViewController.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Team.o /Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328062.044413
+e310328062.131597
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Team.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m310328062#310328062#0(0"0(0#0#52"/Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m8610796032#1898"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/Team.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/Team.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackITAppDelegate.o /Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328061.671127
+e310328061.923162
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackITAppDelegate.o
+x/Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m310328061#310328061#0(0"0(0#0#66"/Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m8612976576#1926"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/Classes/TrackITAppDelegate.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackITAppDelegate.o0#
+
+CCompileC build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/main.o /Users/markonm/CVSDevelopment/TrackIT/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328061.670070
+e310328061.874830
+r1
+xCompileC
+xbuild/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/main.o
+x/Users/markonm/CVSDevelopment/TrackIT/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/markonm/CVSDevelopment/TrackIT/main.m310328061#310328061#0(0"0(0#0#44"/Users/markonm/CVSDevelopment/TrackIT/main.m8613817440#1890"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -include /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch -c /Users/markonm/CVSDevelopment/TrackIT/main.m -o /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib
+s310328053.070877
+e310328056.809711
+r1
+xCompileXIB
+x/Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib310328053#310328056#0(0"0(0#0#52"/Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib8601437024#567"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MainWindow.nib /Users/markonm/CVSDevelopment/TrackIT/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib
+s310328056.811022
+e310328057.650613
+r1
+xCompileXIB
+x/Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib
+lSLF07#2@34"CompileXIB MatchViewController.xib310328056#310328057#0(0"0(0#0#61"/Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib8617669472#585"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MatchViewController.nib /Users/markonm/CVSDevelopment/TrackIT/MatchViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib
+s310328056.897768
+e310328057.344962
+r1
+xCompileXIB
+x/Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib
+lSLF07#2@36"CompileXIB MatchesViewController.xib310328056#310328057#0(0"0(0#0#63"/Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib8599511552#589"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/MatchesViewController.nib /Users/markonm/CVSDevelopment/TrackIT/MatchesViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib
+s310328053.109749
+e310328056.809981
+r1
+xCompileXIB
+x/Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib310328053#310328056#0(0"0(0#0#60"/Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib8601008096#583"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/RootViewController.nib /Users/markonm/CVSDevelopment/TrackIT/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/TrackIT.app/TrackIT.sqlite TrackIT.sqlite
+s310328056.810069
+e310328056.895929
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TrackIT.app/TrackIT.sqlite
+xTrackIT.sqlite
+lSLF07#2@19"Copy TrackIT.sqlite310328056#310328056#0(0"0(0#0#52"/Users/markonm/CVSDevelopment/TrackIT/TrackIT.sqlite8610856832#455"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/markonm/CVSDevelopment/TrackIT/TrackIT.sqlite /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app0#
+
+CCpResource build/Debug-iphonesimulator/TrackIT.app/rugby_ball.png rugby_ball.png
+s310328056.896021
+e310328056.907326
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/TrackIT.app/rugby_ball.png
+xrugby_ball.png
+lSLF07#2@19"Copy rugby_ball.png310328056#310328056#0(0"0(0#0#52"/Users/markonm/CVSDevelopment/TrackIT/rugby_ball.png8600297504#455"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/markonm/CVSDevelopment/TrackIT/rugby_ball.png /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app0#
+
+CGenerateDSYMFile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app.dSYM /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT
+s310328062.793362
+e310328062.919130
+r1
+xGenerateDSYMFile
+x/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app.dSYM
+x/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/TrackIT.app.dSYM build/Debug-iphonesimulator/TrackIT.app/TrackIT310328062#310328062#0(0"0(0#0#85"/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT8611632768#380"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT -o /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app.dSYM0#
+
+CLd /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT normal i386
+s310328062.341587
+e310328062.793265
+r1
+xLd
+x/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT
+xnormal
+xi386
+lSLF07#2@90"Link /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT310328062#310328062#0(0"0(0#0#0"8610658464#907"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -filelist /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/Objects-normal/i386/TrackIT.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/TrackIT0#
+
+CProcessInfoPlistFile /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/Info.plist TrackIT-Info.plist
+s310328053.021265
+e310328053.070772
+r1
+xProcessInfoPlistFile
+x/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/Info.plist
+xTrackIT-Info.plist
+lSLF07#2@26"Process TrackIT-Info.plist310328053#310328053#0(0"0(0#0#56"/Users/markonm/CVSDevelopment/TrackIT/TrackIT-Info.plist8612890016#476"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TrackIT-Info.plist -genpkginfo /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app/Info.plist0#
+
+CProcessPCH /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch.gch TrackIT_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310328057.651238
+e310328061.669835
+r1
+xProcessPCH
+x/var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch.gch
+xTrackIT_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile TrackIT_Prefix.pch310328057#310328061#0(0"0(0#0#56"/Users/markonm/CVSDevelopment/TrackIT/TrackIT_Prefix.pch8611429888#1783"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-generated-files.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-own-target-headers.hmap -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-all-target-headers.hmap -iquote /Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/TrackIT-project-headers.hmap -F/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator -I/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/include -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources/i386 -I/Users/markonm/CVSDevelopment/TrackIT/build/TrackIT.build/Debug-iphonesimulator/TrackIT.build/DerivedSources -c /Users/markonm/CVSDevelopment/TrackIT/TrackIT_Prefix.pch -o /var/folders/ge/gecaipEXFNyv4XLvN8fVl++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TrackIT_Prefix-hcebxcbyuakoldfvwansyapgrgbw/TrackIT_Prefix.pch.gch0#
+
+CTouch /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app
+s310328062.919228
+e310328062.955413
+r1
+xTouch
+x/Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app
+lSLF07#2@83"Touch /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app310328062#310328062#0(0"0(0#0#0"8611142848#276"    cd /Users/markonm/CVSDevelopment/TrackIT    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/markonm/CVSDevelopment/TrackIT/build/Debug-iphonesimulator/TrackIT.app0#
+
